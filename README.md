@@ -1,1 +1,1 @@
-# NumPy-for-data-analysis
+# NumPy-for-Data-Analysis
